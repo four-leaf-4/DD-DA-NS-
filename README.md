@@ -1,4 +1,5 @@
 # DD-DA-NS-
 Nintendo Switch™『ドラゴンズドグマ：ダークアリズン』｜イーカプコン
+I design and Coding this page.
 
-URL : https://www.e-capcom.com/DD-DA/NS/
+https://www.e-capcom.com/DD-DA/NS/
